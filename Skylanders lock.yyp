@@ -29,7 +29,6 @@
     {"id":{"name":"backgroundLockCornerTopLeft","path":"objects/backgroundLockCornerTopLeft/backgroundLockCornerTopLeft.yy",},},
     {"id":{"name":"backgroundLockCornerTopRight","path":"objects/backgroundLockCornerTopRight/backgroundLockCornerTopRight.yy",},},
     {"id":{"name":"lockController","path":"objects/lockController/lockController.yy",},},
-    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"Lock","path":"rooms/Lock/Lock.yy",},},
     {"id":{"name":"background","path":"sprites/background/background.yy",},},
     {"id":{"name":"backgroundCornerBottomLeft","path":"sprites/backgroundCornerBottomLeft/backgroundCornerBottomLeft.yy",},},
