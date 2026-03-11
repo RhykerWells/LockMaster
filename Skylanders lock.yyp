@@ -25,6 +25,7 @@
   },
   "name":"Skylanders lock",
   "resources":[
+    {"id":{"name":"obj_backgroundEdge","path":"objects/obj_backgroundEdge/obj_backgroundEdge.yy",},},
     {"id":{"name":"obj_backgroundLock","path":"objects/obj_backgroundLock/obj_backgroundLock.yy",},},
     {"id":{"name":"obj_backgroundLockCornerBottomLeft","path":"objects/obj_backgroundLockCornerBottomLeft/obj_backgroundLockCornerBottomLeft.yy",},},
     {"id":{"name":"obj_backgroundLockCornerBottomRight","path":"objects/obj_backgroundLockCornerBottomRight/obj_backgroundLockCornerBottomRight.yy",},},
@@ -37,6 +38,7 @@
     {"id":{"name":"spr_backgroundCornerBottomRight","path":"sprites/spr_backgroundCornerBottomRight/spr_backgroundCornerBottomRight.yy",},},
     {"id":{"name":"spr_backgroundCornerTopLeft","path":"sprites/spr_backgroundCornerTopLeft/spr_backgroundCornerTopLeft.yy",},},
     {"id":{"name":"spr_backgroundCornerTopRight","path":"sprites/spr_backgroundCornerTopRight/spr_backgroundCornerTopRight.yy",},},
+    {"id":{"name":"spr_backgroundEdge","path":"sprites/spr_backgroundEdge/spr_backgroundEdge.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
