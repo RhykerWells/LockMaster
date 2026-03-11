@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"backgroundLockCornerBottomLeft",
+  "%Name":"obj_backgroundLock",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"backgroundLockCornerBottomLeft",
+  "name":"obj_backgroundLock",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_backgroundCornerBottomLeft",
-    "path":"sprites/spr_backgroundCornerBottomLeft/spr_backgroundCornerBottomLeft.yy",
+    "name":"spr_background",
+    "path":"sprites/spr_background/spr_background.yy",
   },
   "spriteMaskId":null,
   "visible":true,
