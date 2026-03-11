@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"backgroundCornerTopRight",
-    "path":"sprites/backgroundCornerTopRight/backgroundCornerTopRight.yy",
+    "name":"spr_backgroundCornerTopRight",
+    "path":"sprites/spr_backgroundCornerTopRight/spr_backgroundCornerTopRight.yy",
   },
   "spriteMaskId":null,
   "visible":true,
