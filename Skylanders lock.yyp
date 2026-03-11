@@ -1,0 +1,49 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Skylanders lock",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.3.217",
+  },
+  "name":"Skylanders lock",
+  "resources":[
+    {"id":{"name":"backgroundLock","path":"objects/backgroundLock/backgroundLock.yy",},},
+    {"id":{"name":"backgroundLockCornerBottomLeft","path":"objects/backgroundLockCornerBottomLeft/backgroundLockCornerBottomLeft.yy",},},
+    {"id":{"name":"backgroundLockCornerBottomRight","path":"objects/backgroundLockCornerBottomRight/backgroundLockCornerBottomRight.yy",},},
+    {"id":{"name":"backgroundLockCornerTopLeft","path":"objects/backgroundLockCornerTopLeft/backgroundLockCornerTopLeft.yy",},},
+    {"id":{"name":"backgroundLockCornerTopRight","path":"objects/backgroundLockCornerTopRight/backgroundLockCornerTopRight.yy",},},
+    {"id":{"name":"lockController","path":"objects/lockController/lockController.yy",},},
+    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
+    {"id":{"name":"Lock","path":"rooms/Lock/Lock.yy",},},
+    {"id":{"name":"background","path":"sprites/background/background.yy",},},
+    {"id":{"name":"backgroundCornerBottomLeft","path":"sprites/backgroundCornerBottomLeft/backgroundCornerBottomLeft.yy",},},
+    {"id":{"name":"backgroundCornerBottomRight","path":"sprites/backgroundCornerBottomRight/backgroundCornerBottomRight.yy",},},
+    {"id":{"name":"backgroundCornerTopLeft","path":"sprites/backgroundCornerTopLeft/backgroundCornerTopLeft.yy",},},
+    {"id":{"name":"backgroundCornerTopRight","path":"sprites/backgroundCornerTopRight/backgroundCornerTopRight.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Lock","path":"rooms/Lock/Lock.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
