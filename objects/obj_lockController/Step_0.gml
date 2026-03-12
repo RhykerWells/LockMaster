@@ -19,4 +19,5 @@ if (rotate_steps > 0)
 {
     angle += rotate_dir * rotate_speed;
     rotate_steps--;
+	obj_imp.lockTurning = true;
 }
