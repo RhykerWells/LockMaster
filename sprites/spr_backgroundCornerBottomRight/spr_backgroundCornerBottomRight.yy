@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"borders",
-    "path":"folders/Sprites/borders.yy",
+    "name":"corners",
+    "path":"folders/Sprites/corners.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -9,8 +9,8 @@
   "name":"obj_backgroundLockCornerBottomLeft",
   "overriddenProperties":[],
   "parent":{
-    "name":"borders",
-    "path":"folders/Objects/borders.yy",
+    "name":"corners",
+    "path":"folders/Objects/corners.yy",
   },
   "parentObjectId":null,
   "persistent":false,
