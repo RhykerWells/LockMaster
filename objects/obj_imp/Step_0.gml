@@ -1,27 +1,33 @@
-// Ensure we don't lock the position
+// If lock rotates, follow it
 if lockTurning {
-	x = lock.x + lengthdir_x(dist, dir + lock.angle);
-	y = lock.y + lengthdir_y(dist, dir + lock.angle);
 
-	// rotate the image of the segment to match the lock
-	image_angle = lock.angle;
-	
-	lockTurning = false;
-	impCanMove = true;
+    x = lock.x + lengthdir_x(dist, dir + lock.angle);
+    y = lock.y + lengthdir_y(dist, dir + lock.angle);
+
+    image_angle = lock.angle;
+
+    lockTurning = false;
+    impCanMove = true;
 }
 
-// Prevent falling unless the lock has stopped
+// Gravity
 if impCanMove && !lockTurning {
-	// Apply gravity
-	if y_spd < 5 {
-	    y_spd += grav;
-	}
 
-	// Prevent persistent sinking
-	if place_meeting(x, y + y_spd, obj_backgroundEdge) {
-	    y_spd = 0;
-	}
-	
-	// Move Y position
-	y += y_spd;	
+    if y_spd < 5 {
+        y_spd += grav;
+    }
+
+    if place_meeting(x, y + y_spd, obj_backgroundEdge) {
+
+        y_spd = 0;
+
+        // Update local offset relative to lock rotation
+        var dx = x - lock.x;
+        var dy = y - lock.y;
+
+        dist = point_distance(0,0,dx,dy);
+        dir  = point_direction(0,0,dx,dy) - lock.angle;
+    }
+
+    y += y_spd;
 }
