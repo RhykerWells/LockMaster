@@ -1,18 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"obj_backgroundEdge",
+  "%Name":"obj_lockEdgeBottom",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_backgroundEdge",
+  "name":"obj_lockEdgeBottom",
   "overriddenProperties":[],
   "parent":{
-    "name":"borders",
-    "path":"folders/Objects/borders.yy",
+    "name":"lockEdges",
+    "path":"folders/Objects/lockEdges.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_lockEdgeParent",
+    "path":"objects/obj_lockEdgeParent/obj_lockEdgeParent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_backgroundEdge",
-    "path":"sprites/spr_backgroundEdge/spr_backgroundEdge.yy",
+    "name":"spr_backgroundEdgeBottom",
+    "path":"sprites/spr_backgroundEdgeBottom/spr_backgroundEdgeBottom.yy",
   },
   "spriteMaskId":null,
   "visible":true,

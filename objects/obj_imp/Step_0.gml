@@ -17,7 +17,7 @@ if impCanMove && !lockTurning {
         y_spd += grav;
     }
 
-    if place_meeting(x, y + y_spd, obj_backgroundEdge) {
+    if (place_meeting(x, y + y_spd, obj_lockEdgeParent)) {
 
         y_spd = 0;
 
