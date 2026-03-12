@@ -27,6 +27,8 @@ if impCanMove && !lockTurning {
 
         dist = point_distance(0,0,dx,dy);
         dir  = point_direction(0,0,dx,dy) - lock.angle;
+		
+		impCanMove = false;
     }
 
     y += y_spd;

@@ -1,5 +1,5 @@
 // INPUT
-if (rotate_steps == 0)
+if (rotate_steps == 0 && !obj_imp.impCanMove)
 {
     if (keyboard_check_pressed(vk_right))
     {
