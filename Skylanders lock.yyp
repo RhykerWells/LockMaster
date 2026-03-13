@@ -40,7 +40,8 @@
     {"id":{"name":"obj_lockEdgeParent","path":"objects/obj_lockEdgeParent/obj_lockEdgeParent.yy",},},
     {"id":{"name":"obj_lockEdgeRight","path":"objects/obj_lockEdgeRight/obj_lockEdgeRight.yy",},},
     {"id":{"name":"obj_lockEdgeTop","path":"objects/obj_lockEdgeTop/obj_lockEdgeTop.yy",},},
-    {"id":{"name":"Lock","path":"rooms/Lock/Lock.yy",},},
+    {"id":{"name":"Lock01","path":"rooms/Lock01/Lock01.yy",},},
+    {"id":{"name":"Lock02","path":"rooms/Lock02/Lock02.yy",},},
     {"id":{"name":"spr_backgroundCornerBottomLeft","path":"sprites/spr_backgroundCornerBottomLeft/spr_backgroundCornerBottomLeft.yy",},},
     {"id":{"name":"spr_backgroundCornerBottomRight","path":"sprites/spr_backgroundCornerBottomRight/spr_backgroundCornerBottomRight.yy",},},
     {"id":{"name":"spr_backgroundCornerTopLeft","path":"sprites/spr_backgroundCornerTopLeft/spr_backgroundCornerTopLeft.yy",},},
@@ -56,7 +57,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Lock","path":"rooms/Lock/Lock.yy",},},
+    {"roomId":{"name":"Lock02","path":"rooms/Lock02/Lock02.yy",},},
+    {"roomId":{"name":"Lock01","path":"rooms/Lock01/Lock01.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
