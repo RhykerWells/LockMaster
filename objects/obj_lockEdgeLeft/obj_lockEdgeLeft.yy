@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_backgroundEdgeRight",
-    "path":"sprites/spr_backgroundEdgeRight/spr_backgroundEdgeRight.yy",
+    "name":"spr_backgroundEdgeLeft",
+    "path":"sprites/spr_backgroundEdgeLeft/spr_backgroundEdgeLeft.yy",
   },
   "spriteMaskId":null,
   "visible":true,
