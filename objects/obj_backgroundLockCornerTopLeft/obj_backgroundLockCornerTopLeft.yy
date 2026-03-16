@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"corners",
-    "path":"folders/Objects/corners.yy",
+    "path":"folders/Objects/lock/corners.yy",
   },
   "parentObjectId":null,
   "persistent":false,

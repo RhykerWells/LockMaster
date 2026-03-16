@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"lockEdges",
-    "path":"folders/Objects/lockEdges.yy",
+    "path":"folders/Objects/lock/lockEdges.yy",
   },
   "parentObjectId":null,
   "persistent":false,
