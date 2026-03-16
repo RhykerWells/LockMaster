@@ -15,7 +15,6 @@
     {"$GMFolder":"","%Name":"corners","folderPath":"folders/Objects/lock/corners.yy","name":"corners","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"lockEdges","folderPath":"folders/Objects/lock/lockEdges.yy","name":"lockEdges","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Hurdles","folderPath":"folders/Rooms/Hurdles.yy","name":"Hurdles","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Locks","folderPath":"folders/Rooms/Locks.yy","name":"Locks","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"lock","folderPath":"folders/Sprites/lock.yy","name":"lock","resourceType":"GMFolder","resourceVersion":"2.0",},
