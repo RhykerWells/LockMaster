@@ -32,6 +32,7 @@
   },
   "name":"Skylanders lock",
   "resources":[
+    {"id":{"name":"font_moves","path":"fonts/font_moves/font_moves.yy",},},
     {"id":{"name":"obj_backgroundLockCornerBottomLeft","path":"objects/obj_backgroundLockCornerBottomLeft/obj_backgroundLockCornerBottomLeft.yy",},},
     {"id":{"name":"obj_backgroundLockCornerBottomRight","path":"objects/obj_backgroundLockCornerBottomRight/obj_backgroundLockCornerBottomRight.yy",},},
     {"id":{"name":"obj_backgroundLockCornerTopLeft","path":"objects/obj_backgroundLockCornerTopLeft/obj_backgroundLockCornerTopLeft.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"obj_lockEdgeParent","path":"objects/obj_lockEdgeParent/obj_lockEdgeParent.yy",},},
     {"id":{"name":"obj_lockEdgeRight","path":"objects/obj_lockEdgeRight/obj_lockEdgeRight.yy",},},
     {"id":{"name":"obj_lockEdgeTop","path":"objects/obj_lockEdgeTop/obj_lockEdgeTop.yy",},},
+    {"id":{"name":"obj_moves","path":"objects/obj_moves/obj_moves.yy",},},
     {"id":{"name":"obj_unlock","path":"objects/obj_unlock/obj_unlock.yy",},},
     {"id":{"name":"Lock01","path":"rooms/Lock01/Lock01.yy",},},
     {"id":{"name":"Lock02","path":"rooms/Lock02/Lock02.yy",},},
@@ -58,6 +60,7 @@
     {"id":{"name":"spr_backgroundEdgeTop","path":"sprites/spr_backgroundEdgeTop/spr_backgroundEdgeTop.yy",},},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},},
     {"id":{"name":"spr_imp","path":"sprites/spr_imp/spr_imp.yy",},},
+    {"id":{"name":"spr_moves_box","path":"sprites/spr_moves_box/spr_moves_box.yy",},},
     {"id":{"name":"spr_tile","path":"sprites/spr_tile/spr_tile.yy",},},
     {"id":{"name":"spr_unlock_disabled","path":"sprites/spr_unlock_disabled/spr_unlock_disabled.yy",},},
     {"id":{"name":"spr_unlock","path":"sprites/spr_unlock/spr_unlock.yy",},},

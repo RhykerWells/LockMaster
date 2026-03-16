@@ -1,13 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_imp",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_moves",
+  "eventList":[],
   "managed":true,
-  "name":"obj_imp",
+  "name":"obj_moves",
   "overriddenProperties":[],
   "parent":{
     "name":"lock",
@@ -32,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_imp",
-    "path":"sprites/spr_imp/spr_imp.yy",
+    "name":"spr_moves_box",
+    "path":"sprites/spr_moves_box/spr_moves_box.yy",
   },
   "spriteMaskId":null,
   "visible":true,
