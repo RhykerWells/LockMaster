@@ -31,9 +31,13 @@ if impCanMove && !lockTurning {
         if (place_meeting(x, bbox_bottom + 1, obj_unlock)) { 
             var inst = instance_place(x, y, obj_unlock);
 
-            if (inst != noone) {
-                inst.sprite_index = spr_unlock_disabled;
+            if (inst.sprite_index != spr_unlock_disabled) { 
+                    if (inst != noone) {
+                    inst.sprite_index = spr_unlock_disabled;
+                    obj_lockController.unlockedInstances ++;    
+                }
             }
+
         }
 		impCanMove = false;
     }

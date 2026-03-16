@@ -1,0 +1,1 @@
+unlockInstances = instance_number(obj_unlock)
