@@ -45,7 +45,7 @@
   "origin":0,
   "parent":{
     "name":"lockEdges",
-    "path":"folders/Sprites/lock/lockEdges.yy",
+    "path":"folders/Sprites/Lock/lockEdges.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

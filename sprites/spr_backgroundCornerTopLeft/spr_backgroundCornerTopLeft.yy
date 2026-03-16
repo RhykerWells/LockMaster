@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"corners",
-    "path":"folders/Sprites/lock/corners.yy",
+    "path":"folders/Sprites/Lock/corners.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

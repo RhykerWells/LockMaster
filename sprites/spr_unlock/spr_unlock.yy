@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"unlockPad",
-    "path":"folders/Sprites/lock/unlockPad.yy",
+    "path":"folders/Sprites/Lock/unlockPad.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
