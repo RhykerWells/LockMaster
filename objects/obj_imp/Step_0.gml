@@ -28,6 +28,13 @@ if impCanMove && !lockTurning {
         dist = point_distance(0,0,dx,dy);
         dir  = point_direction(0,0,dx,dy) - lock.angle;
 		
+        if (place_meeting(x, bbox_bottom + 1, obj_unlock)) { 
+            var inst = instance_place(x, y, obj_unlock);
+
+            if (inst != noone) {
+                inst.sprite_index = spr_unlock_disabled;
+            }
+        }
 		impCanMove = false;
     }
 

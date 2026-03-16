@@ -15,3 +15,6 @@ grav = 0.5;
 
 lockTurning = false;
 impCanMove = false;
+
+depth = -10;
+
