@@ -35,8 +35,8 @@
   ],
   "name":"Lock01",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Locks",
+    "path":"folders/Rooms/Locks.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
