@@ -6,8 +6,8 @@
   "name":"obj_moves",
   "overriddenProperties":[],
   "parent":{
-    "name":"lock",
-    "path":"folders/Objects/lock.yy",
+    "name":"Lock",
+    "path":"folders/Objects/Lock.yy",
   },
   "parentObjectId":null,
   "persistent":false,
